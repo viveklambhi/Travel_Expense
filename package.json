@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/viveklambhi/Travel_Expense/issues"
   },
-  "homepage": "https://github.com/viveklambhi/Travel_Expense#readme"
+  "homepage": "https://github.com/viveklambhi/Travel_Expense#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
